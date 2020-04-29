@@ -1,2 +1,2 @@
-# lab-website
-Development repository for the Emergent website
+# EMERGENT Website
+Development repository for the EMERGENT website
