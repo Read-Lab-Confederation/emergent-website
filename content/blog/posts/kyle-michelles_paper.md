@@ -3,7 +3,7 @@ title: "Genetics of strain-specific levels of toxin production in *Staphylococcu
 description: ""
 author: [“Kyle Winston“]
 date: 2020-05-11
-featured_image: ""
+featured_image: "/images/Kyle_Michelle_fig-4-full.png"
 draft:false
 ---
 
