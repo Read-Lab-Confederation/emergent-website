@@ -3,11 +3,11 @@ title: "Genetics of strain-specific levels of toxin production in *Staphylococcu
 description: ""
 author: [“Kyle Winston“]
 date: 2020-05-11
-featured_image: "/images/Kyle_Michelle_fig-4-full.png"
+featured_image: "/images/Kyle_Michelle_fig-4-full.png”
 draft:false
 ---
 
-(This article was written as part of an [Emory REAL program](https://www.sph.emory.edu/rollins-life/community-engaged-learning/real/index.html) project)
+(This article was written as part of Kyle's [Emory REAL program](https://www.sph.emory.edu/rollins-life/community-engaged-learning/real/index.html) studentship with the lab)
 
 **Su, M., Lyles, J. T., Petit, R. A., Iii, Peterson, J., Hargita, M., Tang, H., Solis-Lemus, C., Quave, C. L., & Read, T. D. (2020). Genomic analysis of variability in Delta-toxin levels between Staphylococcus aureus strains. _PeerJ_, _8_, e8717. https://doi.org/10.7717/peerj.8717**
 

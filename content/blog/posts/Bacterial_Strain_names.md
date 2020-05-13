@@ -1,5 +1,5 @@
 ---
-title: "Bacterial Strain names and Biosample IDs"
+title: "Bacterial strain names and Biosample IDs"
 description: ""
 author: ["Tim Read"]
 date: 2020-03-15
