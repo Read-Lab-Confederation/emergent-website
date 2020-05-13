@@ -1,15 +1,15 @@
 ---
 title: "Genetics of strain-specific levels of toxin production in *Staphylococcus aureus*"
 description: ""
-author: [“Kyle Winston“]
+author: ["Kyle Winston"]
 date: 2020-05-11
 featured_image: "/images/Kyle_Michelle_fig-4-full.png"
-draft:false
+draft: false
 ---
 
 (This article was written as part of an [Emory REAL program](https://www.sph.emory.edu/rollins-life/community-engaged-learning/real/index.html) project)
 
-**Su, M., Lyles, J. T., Petit, R. A., Iii, Peterson, J., Hargita, M., Tang, H., Solis-Lemus, C., Quave, C. L., & Read, T. D. (2020). Genomic analysis of variability in Delta-toxin levels between Staphylococcus aureus strains. _PeerJ_, _8_, e8717. https://doi.org/10.7717/peerj.8717**
+**Su, M., Lyles, J. T., Petit, R. A., III, Peterson, J., Hargita, M., Tang, H., Solis-Lemus, C., Quave, C. L., & Read, T. D. (2020). Genomic analysis of variability in Delta-toxin levels between *Staphylococcus aureus* strains. _PeerJ_, _8_, e8717. https://doi.org/10.7717/peerj.8717**
 
 Extracellular toxins play a central role in many *Staphylococcus aureus* infections. However, producing toxins can take resources away from other cellular functions, and may in fact limit bacterial growth and come at a negative fitness cost. Therefore, bacteria have complex regulatory mechanisms to turn on and off the production of various toxins. In *S. aureus*, delta-toxin is an important contributor to disease severity, but little was known about the variation in production in different strains and which genetic factors influence it. In this paper Michelle Su used genome-wide association study (GWAS) methods and constructed machine learning (XGBoost) models to better understand strain variation in delta-toxin production and identify genetic loci that are important for delta-toxin production.
 

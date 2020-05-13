@@ -4,20 +4,24 @@
         <p class="author-name">
         {{ range $i, $author := $article_author }}
             {{$current := add $i 1 }}
+            {{ $name := $author }}
+            
             {{ range $.Site.Data.group}}
                 {{ if eq .display_name $author }} 
-                    {{ if eq $total 1 }}
-                        {{.display_name}}
-                    {{ else }}
-                        {{ if eq $current  $total }}                   
-                            & {{.display_name}}
-                        {{ else if eq $current 1 }}
-                            {{.display_name}}
-                        {{ else }}
-                            , {{.display_name}}
-                        {{end}}
-                    {{ end }}
+                    {{ $name := .display_name }}
                 {{ end }}
+            {{ end }}
+
+            {{ if eq $total 1 }}
+                {{$name}}
+            {{ else }}
+                {{ if eq $current $total }}                   
+                    & {{$name}}
+                {{ else if eq $current 1 }}
+                    {{$name}}
+                {{ else }}
+                    , {{$name}}
+                {{end}}
             {{ end }}
         {{end}}
     </p>
