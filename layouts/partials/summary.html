@@ -7,7 +7,7 @@
     </span>
     <h1 class="f3-ns f6 near-black">
       <a href="{{ .URL }}" class="link black dim">
-        {{ .Title }}
+        {{ .Title | markdownify }}
       </a>
     </h1>
     <span class="f6-ns f7 db">
@@ -16,7 +16,7 @@
     {{ end }}
     </span>
     <div class="nested-links f5-l f7 lh-copy nested-copy-line-height">
-      {{ .Summary  }}
+      {{ .Summary | markdownify  }}
     </div>
   </div>
 </div>
