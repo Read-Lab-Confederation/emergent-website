@@ -1,4 +1,11 @@
-
+---
+title: "The strain of defining the bacterial strain"
+description: ""
+author: ["Tim Read"]
+date: 2020-11-09
+featured_image: ""
+draft: true
+---
 # **The strain of defining the bacterial strain**
 
 
