@@ -15,9 +15,17 @@
           */}}
         {{with .CurrentSection.Title }}{{. | upper }}{{end}}
       </p>
-      <h1 class="f1-ns f4 athelas mb1">
+      <h1 class="f3-ns f4 athelas mb1">
         {{ .Title | markdownify }}
       </h1>
+
+      {{ if .Params.subtitle }}
+        <p class="f4-ns f1 athelas mb1">
+          {{ .Params.subtitle | markdownify }}
+        </p>
+        </br>
+      {{ end }}
+
       <time class="f6 dib tracked" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
         {{- .Date.Format "January 2, 2006" -}}
       </time>
@@ -36,7 +44,7 @@
       {{ end }}
     </header>
 
-    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l">
+    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-80-l">
       {{- .Content -}}
       {{- partial "tags.html" . -}}
       <div class="mt6">
