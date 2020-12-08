@@ -179,7 +179,7 @@ Nearly all jobs took around 55 minutes to complete using only 4-cores and 16GB o
 
 Total: *$12,408 (USD)*
 
-This cost was included testing and processing all 67,000 genomes. When I add up the testing and final processing I probably processed close to 70,000 genomes, which comes out to ~$0.18 (USD) to process a *S. aureus* genome using Bactopia and AWS Batch. Here is the breakdown of costs.
+This cost included testing and processing all 67,000 genomes. When I add up the testing and final processing I probably processed close to 70,000 genomes, which comes out to ~$0.18 (USD) to process a *S. aureus* genome using Bactopia and AWS Batch. Here is the breakdown of costs.
 
 
 | AWS Charge                  | Usage Estimate    | Cost USD (%) | Cost Per Genome |
