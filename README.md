@@ -1,3 +1,8 @@
+# IMPORTANT
+Please use https://github.com/Read-Lab-Confederation/read-lab-confederation.github.io
+
+This repo was merged into `Read-Lab-Confederation/read-lab-confederation.github` so this repo no longer serves its original purpose. It also removes the need of using the `deploy.sh` script to build on this repo, but deploy to another repo.
+
 # EMERGENT Website
 Development repository for the EMERGENT website
 
